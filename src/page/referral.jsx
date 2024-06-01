@@ -169,9 +169,6 @@ export const ReferralPage = () => {
                 />
               </div>
             </div>
-            <span className="linkreffklikcount">
-              link referral kamu telah di klik sebanyak 2036x
-            </span>
           </div>
           <div className="groupdatarefferal">
             <div className="listdatarefferal reff">
