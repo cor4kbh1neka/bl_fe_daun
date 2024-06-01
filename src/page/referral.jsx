@@ -23,7 +23,6 @@ export const ReferralPage = () => {
       setUsername(username);
       getReferral(username, access)
         .then((response) => {
-          console.log("Referral data response:", response);
           setReferralData(response || { dataReferral: [], dataKomisi: [] });
           setLoading(false);
         })
