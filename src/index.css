@@ -5840,6 +5840,13 @@
     grid-template-columns: 1fr 1fr;
     gap: 10px;
   }
+  .primary.lchat {
+    background: #e59f26;
+  }
+  .tombol.primary.lchat:hover {
+    background: transparent;
+    border: 1px solid #e59f26;
+  }
   
   .groupbtnadmin svg {
     color: white;
