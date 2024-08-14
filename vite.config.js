@@ -43,7 +43,7 @@ export default defineConfig({
         credentials: "omit",
       },
       "/content": {
-        target: "https://back-staging.bosraka.com",
+        target: "https://c0rh4kq.leafwgag.com",
         changeOrigin: true,
         secure: false,
         credentials: "omit",
