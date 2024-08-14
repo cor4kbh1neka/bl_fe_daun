@@ -48,12 +48,6 @@ export default defineConfig({
         secure: false,
         credentials: "omit",
       },
-      "/content": {
-        target: "https://c0rh4kq.leafwgag.com",
-        changeOrigin: true,
-        secure: true,
-        credentials: "omit",
-      },
     },
   },
 });
